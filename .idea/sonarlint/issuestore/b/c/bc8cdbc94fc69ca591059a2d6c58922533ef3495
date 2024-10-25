@@ -1,0 +1,13 @@
+
+“
+java:S1192'"vDefine a constant instead of duplicating this literal "-----------------------------------------------------" 3 times.(úú¦Í8ÁëÃÇÆ1
+f
+java:S2095!"DUse try-with-resources or close this "Stream" in a "finally" clause.(Úî©åùÿÿÿÿ8ı—ÅÆ1
+{
+java:S21425"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ò¶È8†—ÅÆ1
+G	java:S106'"+Replace this use of System.out by a logger.(úú¦Í8ˆ—ÅÆ1
+G	java:S106("+Replace this use of System.out by a logger.(ç¿¤ñ8ˆ—ÅÆ1
+G	java:S106*"+Replace this use of System.out by a logger.(°İú†8ˆ—ÅÆ1
+G	java:S106+"+Replace this use of System.out by a logger.(úú¦Í8‰—ÅÆ1
+G	java:S106,"+Replace this use of System.out by a logger.(³ë…¨8‰—ÅÆ1
+G	java:S1060"+Replace this use of System.out by a logger.(³ë…¨8ßëÃÇÆ1

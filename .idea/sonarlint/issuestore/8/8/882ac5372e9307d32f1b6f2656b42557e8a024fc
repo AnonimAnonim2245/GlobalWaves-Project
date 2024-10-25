@@ -1,0 +1,108 @@
+
+
+java:S1192¸"bDefine a constant instead of duplicating this literal "Repeat mode changed to no repeat." 3 times.(çÇŒ38­ŠüšÑ1
+l
+java:S1192ó"IDefine a constant instead of duplicating this literal "playlist" 4 times.(Š÷Â—şÿÿÿÿ8­ŠüšÑ1
+f
+java:S1192ì"HDefine a constant instead of duplicating this literal "podcast" 5 times.(¼Í¢î8­ŠüšÑ1
+g
+java:S1192!"JDefine a constant instead of duplicating this literal "timestamp" 7 times.(ÿş¦­8­ŠüšÑ1
+›
+java:S1192Ê"xDefine a constant instead of duplicating this literal "Please load a source before using the shuffle function." 3 times.(¨Àöøúÿÿÿÿ8­ŠüšÑ1
+i
+java:S1192õ"FDefine a constant instead of duplicating this literal "album" 4 times.(ÀöìØûÿÿÿÿ8­ŠüšÑ1
+k
+java:S1192$"IDefine a constant instead of duplicating this literal "message" 41 times.(º£Äøÿÿÿÿ8­ŠüšÑ1
+e
+java:S1192"HDefine a constant instead of duplicating this literal "command" 7 times.(ïßÙª8®ŠüšÑ1
+
+java:S1192´"Define a constant instead of duplicating this literal "Returned to previous track successfully. The current track is " 3 times.(šïİ²8®ŠüšÑ1
+R
+java:S1066€"/Merge this if statement with the enclosing one.(¥×®Áøÿÿÿÿ8¯ŠüšÑ1
+R
+java:S1066Ç"/Merge this if statement with the enclosing one.(¥×®Áøÿÿÿÿ8¯ŠüšÑ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(šƒ‘øÿÿÿÿ8´ŠüšÑ1
+J
+java:S5411#"(Use a primitive boolean expression here.(ü³ñÔúÿÿÿÿ8µŠüšÑ1
+J
+java:S5411("(Use a primitive boolean expression here.(è¢ûÈúÿÿÿÿ8µŠüšÑ1
+K
+java:S5411‚"(Use a primitive boolean expression here.(ı†‚úÿÿÿÿ8µŠüšÑ1
+K
+java:S5411¡"(Use a primitive boolean expression here.(ı†‚úÿÿÿÿ8µŠüšÑ1
+K
+java:S5411®"(Use a primitive boolean expression here.(ı†‚úÿÿÿÿ8µŠüšÑ1
+F
+java:S5411á"(Use a primitive boolean expression here.(£‹¯ø8µŠüšÑ1
+K
+java:S5411š"(Use a primitive boolean expression here.(‚€·æüÿÿÿÿ8µŠüšÑ1
+K
+java:S5411¹"(Use a primitive boolean expression here.(‚€·æüÿÿÿÿ8µŠüšÑ1
+K
+java:S5411Æ"(Use a primitive boolean expression here.(‚€·æüÿÿÿÿ8µŠüšÑ1
+F
+java:S5411€"(Use a primitive boolean expression here.(Í¬µˆ8µŠüšÑ1
+K
+java:S5411¼"(Use a primitive boolean expression here.(ı†‚úÿÿÿÿ8¶ŠüšÑ1
+K
+java:S5411Ï"(Use a primitive boolean expression here.(ı†‚úÿÿÿÿ8¶ŠüšÑ1
+K
+java:S5411Ù"(Use a primitive boolean expression here.(ı†‚úÿÿÿÿ8¶ŠüšÑ1
+K
+java:S5411õ"(Use a primitive boolean expression here.(‚€·æüÿÿÿÿ8¶ŠüšÑ1
+K
+java:S5411Š"(Use a primitive boolean expression here.(‚€·æüÿÿÿÿ8¶ŠüšÑ1
+K
+java:S5411”"(Use a primitive boolean expression here.(‚€·æüÿÿÿÿ8¶ŠüšÑ1
+K
+java:S5411Ú"(Use a primitive boolean expression here.(‚€·æüÿÿÿÿ8¶ŠüšÑ1
+E
+java:S5411è"(Use a primitive boolean expression here.(÷ì 28¶ŠüšÑ1
+K
+java:S5411¤"(Use a primitive boolean expression here.(ı†‚úÿÿÿÿ8¶ŠüšÑ1
+E
+java:S5411±"(Use a primitive boolean expression here.(÷ì 28¶ŠüšÑ1
+F
+java:S5411ı"(Use a primitive boolean expression here.(®¦ª–8¶ŠüšÑ1
+F
+java:S5411À"(Use a primitive boolean expression here.(®¦ª–8¶ŠüšÑ1
+F
+java:S5411¤"(Use a primitive boolean expression here.(®¦ª–8¶ŠüšÑ1
+Z
+java:S4973Á"<Strings and Boxed types should be compared using "equals()".(ÙİÊ8¸ŠüšÑ1
+o
+java:S3776Z"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÑºÛ’8ñüšÑ1
+p
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(ãÅ¦õ8‰üšÑ1
+u
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(Ã¯×Ñùÿÿÿÿ8è§…›Ñ1
+\
+java:S1854Ì"9Remove this useless assignment to local variable "index".(•óèùşÿÿÿÿ8è§…›Ñ1
+\
+java:S1854Ñ"9Remove this useless assignment to local variable "index".(ÔùÆÚşÿÿÿÿ8è§…›Ñ1
+\
+java:S1854Õ"9Remove this useless assignment to local variable "index".(ÔùÆÚşÿÿÿÿ8è§…›Ñ1
+\
+java:S1854„"9Remove this useless assignment to local variable "index".(•óèùşÿÿÿÿ8è§…›Ñ1
+\
+java:S1854Œ"9Remove this useless assignment to local variable "index".(¢¨¨ªøÿÿÿÿ8è§…›Ñ1
+\
+java:S1854"9Remove this useless assignment to local variable "index".(¢¨¨ªøÿÿÿÿ8è§…›Ñ1
+p
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(Ñ™€•8÷§…›Ñ1
+E
+java:S1659ä""Declare "newI" on a separate line.(ˆßÕæøÿÿÿÿ8ü§…›Ñ1
+E
+java:S1659­""Declare "newI" on a separate line.(ˆßÕæøÿÿÿÿ8€¨…›Ñ1
+u
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(§ÿ„›ùÿÿÿÿ8Š¨…›Ñ1
+u
+java:S3776™"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(š„Èçşÿÿÿÿ8¨…›Ñ1
+ã
+java:S6541Z"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 96 to 64, Complexity from 15 to 14, Nesting Level from 3 to 2, Number of Variables from 11 to 6.(ÑºÛ’8áüšÑ1
+å
+java:S6541Ğ"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 125 to 64, Complexity from 21 to 14, Nesting Level from 4 to 2, Number of Variables from 21 to 6.(ãÅ¦õ8áüšÑ1
+ê
+java:S6541ñ"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 172 to 64, Complexity from 20 to 14, Nesting Level from 4 to 2, Number of Variables from 22 to 6.(Ã¯×Ñùÿÿÿÿ8•¨…›Ñ1
+å
+java:S6541¼"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 139 to 64, Complexity from 25 to 14, Nesting Level from 5 to 2, Number of Variables from 18 to 6.(Ñ™€•8•¨…›Ñ1

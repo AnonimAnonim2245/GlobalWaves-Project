@@ -1,0 +1,93 @@
+
+M
+java:S1066²"/Merge this if statement with the enclosing one.(ñ¬†¸8ö¸âšÑ1
+|
+java:S1488H"ZImmediately return this expression instead of assigning it to the temporary variable "js".(ÓŒş¬üÿÿÿÿ8ö¸âšÑ1
+|
+java:S1488T"ZImmediately return this expression instead of assigning it to the temporary variable "js".(öº‚‹ÿÿÿÿÿ8ö¸âšÑ1
+x
+java:S1488œ"ZImmediately return this expression instead of assigning it to the temporary variable "js".(ŞíÎœ8ö¸âšÑ1
+x
+java:S1488Ç"ZImmediately return this expression instead of assigning it to the temporary variable "js".(•Š¶°8ö¸âšÑ1
+}
+java:S1488î"ZImmediately return this expression instead of assigning it to the temporary variable "js".( ¾³âıÿÿÿÿ8÷¸âšÑ1
+}
+java:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "js".(áá€øÿÿÿÿ8÷¸âšÑ1
+}
+java:S1488¡"ZImmediately return this expression instead of assigning it to the temporary variable "js".(¾”µÎşÿÿÿÿ8÷¸âšÑ1
+}
+java:S1488¾"ZImmediately return this expression instead of assigning it to the temporary variable "js".(İ‹®àüÿÿÿÿ8÷¸âšÑ1
+}
+java:S1488É"ZImmediately return this expression instead of assigning it to the temporary variable "js".(ïª›¦şÿÿÿÿ8÷¸âšÑ1
+x
+java:S1488Ô"ZImmediately return this expression instead of assigning it to the temporary variable "js".(ÏØ¢ü8÷¸âšÑ1
+x
+java:S1488«"ZImmediately return this expression instead of assigning it to the temporary variable "js".(ø“»8÷¸âšÑ1
+}
+java:S1488¤"ZImmediately return this expression instead of assigning it to the temporary variable "js".(ø»”ÿÿÿÿÿÿ8÷¸âšÑ1
+x
+java:S1488Ü"ZImmediately return this expression instead of assigning it to the temporary variable "js".(ÿµ­é8÷¸âšÑ1
+}
+java:S1488ù"ZImmediately return this expression instead of assigning it to the temporary variable "js".(¸€»¯úÿÿÿÿ8÷¸âšÑ1
+}
+java:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "js".(‹—©µşÿÿÿÿ8÷¸âšÑ1
+w
+java:S1488¦"ZImmediately return this expression instead of assigning it to the temporary variable "js".(–ÕªU8÷¸âšÑ1
+}
+java:S1488¼"ZImmediately return this expression instead of assigning it to the temporary variable "js".(öµæ·üÿÿÿÿ8÷¸âšÑ1
+}
+java:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "js".(òûÊşúÿÿÿÿ8÷¸âšÑ1
+E
+java:S5411-"(Use a primitive boolean expression here.(ãí®©8ø¸âšÑ1
+D
+java:S5411`"(Use a primitive boolean expression here.(÷ì 28ø¸âšÑ1
+F
+java:S5411—"(Use a primitive boolean expression here.(ãí®©8ø¸âšÑ1
+F
+java:S5411Á"(Use a primitive boolean expression here.(ãí®©8ø¸âšÑ1
+F
+java:S5411Ò"(Use a primitive boolean expression here.(ãí®©8ø¸âšÑ1
+K
+java:S5411Ú"(Use a primitive boolean expression here.(œ¼”¸ùÿÿÿÿ8ø¸âšÑ1
+F
+java:S5411ç"(Use a primitive boolean expression here.(ãí®©8ø¸âšÑ1
+F
+java:S5411†"(Use a primitive boolean expression here.(ãí®©8ø¸âšÑ1
+F
+java:S5411›"(Use a primitive boolean expression here.(ãí®©8ø¸âšÑ1
+F
+java:S5411¹"(Use a primitive boolean expression here.(ãí®©8ø¸âšÑ1
+K
+java:S5411˜"(Use a primitive boolean expression here.(™Ó«óúÿÿÿÿ8ø¸âšÑ1
+K
+java:S5411§"(Use a primitive boolean expression here.(ŞĞâşÿÿÿÿ8ø¸âšÑ1
+F
+java:S5411—"(Use a primitive boolean expression here.(ñ¬†¸8ø¸âšÑ1
+F
+java:S5411ô"(Use a primitive boolean expression here.(ñ¬†¸8ø¸âšÑ1
+F
+java:S5411Ï"(Use a primitive boolean expression here.(ñ¬†¸8ø¸âšÑ1
+F
+java:S5411é"(Use a primitive boolean expression here.(ñ¬†¸8ø¸âšÑ1
+K
+java:S5411ò"(Use a primitive boolean expression here.(ÜÛø­øÿÿÿÿ8ø¸âšÑ1
+F
+java:S5411„"(Use a primitive boolean expression here.(ñ¬†¸8ø¸âšÑ1
+F
+java:S5411›"(Use a primitive boolean expression here.(ñ¬†¸8ø¸âšÑ1
+F
+java:S5411²"(Use a primitive boolean expression here.(ñ¬†¸8ø¸âšÑ1
+a
+java:S1854,"?Remove this useless assignment to local variable "jsonElement".(Ü˜æ²şÿÿÿÿ8±¹âšÑ1
+R
+java:S1481,"0Remove this unused "jsonElement" local variable.(Ü˜æ²şÿÿÿÿ8´¹âšÑ1
+‰
+java:S1130|"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¹£ş8¶¹âšÑ1
+X
+java:S2209µ"5Change this instance-reference to a static reference.(ª¢ã¹ûÿÿÿÿ8¸¹âšÑ1
+Y
+java:S1854Ã"6Remove this useless assignment to local variable "js".(öº‚‹ÿÿÿÿÿ8¸¹âšÑ1
+J
+java:S1481Ã"'Remove this unused "js" local variable.(öº‚‹ÿÿÿÿÿ8¸¹âšÑ1
+N
+java:S1172Ê"+Remove this unused method parameter "user".(ÜººÛùÿÿÿÿ8Í¹âšÑ1

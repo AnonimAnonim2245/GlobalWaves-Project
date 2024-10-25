@@ -1,0 +1,45 @@
+
+M
+java:S1066î"/Merge this if statement with the enclosing one.(Ûª¬š8Ö—«—Ð1
+o
+java:S3776L"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¥äï8æÁ”—Ñ1
+C
+java:S1481f"&Remove this unused "z" local variable.(ù¬¶8øÁ”—Ñ1
+C
+java:S1481k"&Remove this unused "k" local variable.(¢³¯¯8ùÁ”—Ñ1
+p
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(•—ß8úÁ”—Ñ1
+D
+java:S1481ž"&Remove this unused "z" local variable.(ù¬¶8üÁ”—Ñ1
+D
+java:S1481£"&Remove this unused "k" local variable.(¢³¯¯8üÁ”—Ñ1
+p
+java:S3776»"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(§±Í¯8ýÁ”—Ñ1
+a
+java:S1854¾">Remove this useless assignment to local variable "jsonObject".(‹ú±èüÿÿÿÿ8ýÁ”—Ñ1
+R
+java:S1481¾"/Remove this unused "jsonObject" local variable.(‹ú±èüÿÿÿÿ8þÁ”—Ñ1
+D
+java:S1481Õ"&Remove this unused "z" local variable.(ù¬¶8ÿÁ”—Ñ1
+D
+java:S1481Ú"&Remove this unused "k" local variable.(¢³¯¯8ÿÁ”—Ñ1
+u
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(’ñÃÑúÿÿÿÿ8€Â”—Ñ1
+D
+java:S1481Š"&Remove this unused "z" local variable.(ù¬¶8ƒÂ”—Ñ1
+D
+java:S1481"&Remove this unused "k" local variable.(¢³¯¯8ƒÂ”—Ñ1
+p
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ûƒÔ†8†Â”—Ñ1
+\
+java:S1854²">Remove this useless assignment to local variable "jsonObject".(áâéÒ8†Â”—Ñ1
+M
+java:S1481²"/Remove this unused "jsonObject" local variable.(áâéÒ8‡Â”—Ñ1
+D
+java:S1481Ê"&Remove this unused "z" local variable.(ù¬¶8ŠÂ”—Ñ1
+D
+java:S1481Ï"&Remove this unused "k" local variable.(¢³¯¯8ŠÂ”—Ñ1
+a
+java:S1854è">Remove this useless assignment to local variable "jsonObject".(‹ú±èüÿÿÿÿ8ŒÂ”—Ñ1
+R
+java:S1481è"/Remove this unused "jsonObject" local variable.(‹ú±èüÿÿÿÿ8ŒÂ”—Ñ1

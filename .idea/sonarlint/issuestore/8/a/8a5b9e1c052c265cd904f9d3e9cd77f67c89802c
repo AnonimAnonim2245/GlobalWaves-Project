@@ -1,0 +1,130 @@
+
+…
+java:S1192Æ"bDefine a constant instead of duplicating this literal "No new recommendations were found" 4 times.(İ¶ñ¯şÿÿÿÿ8Àš‡ÑĞ1
+
+java:S1192ô"^Define a constant instead of duplicating this literal "The recommendations for user " 3 times.(€ıŒ£şÿÿÿÿ8Áš‡ÑĞ1
+t
+java:S1192å"QDefine a constant instead of duplicating this literal "Search returned " 3 times.(‚ÇŒ•ûÿÿÿÿ8Áš‡ÑĞ1
+k
+java:S1192ê"HDefine a constant instead of duplicating this literal "results" 4 times.(±××úûÿÿÿÿ8Áš‡ÑĞ1
+r
+java:S1192ş"ODefine a constant instead of duplicating this literal " successfully." 5 times.(†Ü§øÿÿÿÿ8Áš‡ÑĞ1
+t
+java:S1192ƒ"QDefine a constant instead of duplicating this literal " doesn't exist." 12 times.(½Éİïÿÿÿÿÿ8Áš‡ÑĞ1
+€
+java:S1192ì"]Define a constant instead of duplicating this literal "The selected ID is too high." 4 times.(Ãç˜ıÿÿÿÿ8Áš‡ÑĞ1
+k
+java:S1192"HDefine a constant instead of duplicating this literal "private" 5 times.(‚•ŒÁûÿÿÿÿ8Áš‡ÑĞ1
+j
+java:S1192„"GDefine a constant instead of duplicating this literal "artist" 3 times.(Îƒ—æÿÿÿÿÿ8Áš‡ÑĞ1
+l
+java:S1192å"IDefine a constant instead of duplicating this literal " results" 3 times.(‚ÇŒ•ûÿÿÿÿ8Áš‡ÑĞ1
+l
+java:S1192z"JDefine a constant instead of duplicating this literal "Ad Break" 10 times.(¼ø‚ªşÿÿÿÿ8Áš‡ÑĞ1
+e
+java:S1192¨"GDefine a constant instead of duplicating this literal "ARTIST" 3 times.(·¼éå8Áš‡ÑĞ1
+l
+java:S1192²"IDefine a constant instead of duplicating this literal "playlist" 3 times.(”¸š¢ùÿÿÿÿ8Âš‡ÑĞ1
+i
+java:S1192€"KDefine a constant instead of duplicating this literal "timestamp" 18 times.(ÿş¦­8Âš‡ÑĞ1
+m
+java:S1192‚"ODefine a constant instead of duplicating this literal "The username " 11 times.(Ä—ÉÚ8Âš‡ÑĞ1
+d
+java:S1192’"FDefine a constant instead of duplicating this literal "album" 8 times.(ª•“«8Âš‡ÑĞ1
+„
+java:S1192õ"aDefine a constant instead of duplicating this literal " have been updated successfully." 3 times.(õ–³Àşÿÿÿÿ8Âš‡ÑĞ1
+z
+java:S1192»"WDefine a constant instead of duplicating this literal " is not a normal user." 5 times.(¹€¿½üÿÿÿÿ8Âš‡ÑĞ1
+g
+java:S1192‚"IDefine a constant instead of duplicating this literal "message" 71 times.(Ä—ÉÚ8Ãš‡ÑĞ1
+u
+java:S1192¯"WDefine a constant instead of duplicating this literal "Successfully selected " 6 times.(ÔæìŒ8Ãš‡ÑĞ1
+g
+java:S1192ş"IDefine a constant instead of duplicating this literal "command" 18 times.(ïßÙª8Ãš‡ÑĞ1
+o
+java:S1192‡"LUse already-defined constant 'ONLINE' instead of duplicating its value here.(ÔÄ—¦ùÿÿÿÿ8Ãš‡ÑĞ1
+{	java:S135“"YReduce the total number of break and continue statements in this loop to use at most one.(ÏÆáûÿÿÿÿ8Õš‡ÑĞ1
+R
+java:S1066¨"/Merge this if statement with the enclosing one.(àÿ…øÿÿÿÿ8Şš‡ÑĞ1
+L
+java:S1066á"/Merge this if statement with the enclosing one.(‰‚„8àš‡ÑĞ1
+K
+java:S5411†"(Use a primitive boolean expression here.(­š“”ÿÿÿÿÿ8ìš‡ÑĞ1
+K
+java:S5411ï"(Use a primitive boolean expression here.(¨òûúúÿÿÿÿ8ìš‡ÑĞ1
+g
+java:S2583–"DChange this condition so that it does not always evaluate to "false"(Ôõºìøÿÿÿÿ8ª¦‡ÑĞ1
+]
+java:S1854Î"?Remove this useless assignment to local variable "songRevenue".(‹Ä›8»¦‡ÑĞ1
+N
+java:S1481Î"0Remove this unused "songRevenue" local variable.(‹Ä›8¾¦‡ÑĞ1
+L
+java:S1905”")Remove this unnecessary cast to "double".(’¤Üêıÿÿÿÿ8Â¦‡ÑĞ1
+p
+java:S3776è"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(½ßèö8É¦‡ÑĞ1
+u
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Æÿ¸Àùÿÿÿÿ8Ì¦‡ÑĞ1
+S
+java:S1854±"6Remove this useless assignment to local variable "ok".(ŸÚÁw8â¦‡ÑĞ1
+J
+java:S1481¬"'Remove this unused "ok" local variable.(‰İıÂøÿÿÿÿ8ä¦‡ÑĞ1
+I
+java:S1874Ö"+Remove this use of "put"; it is deprecated.(Ğè¶Î8è¦‡ÑĞ1
+u
+java:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(£–Ò–şÿÿÿÿ8ë¦‡ÑĞ1
+C
+java:S6326¯"%Replace spaces with quantifier `{2}`.(×Ë‘â8«ƒ˜ÑĞ1
+Y
+java:S1854‡";Remove this useless assignment to local variable "artist1".(’Ç³‡8ù¦‡ÑĞ1
+J
+java:S1481‡",Remove this unused "artist1" local variable.(’Ç³‡8ú¦‡ÑĞ1
+D
+java:S1481š"&Remove this unused "z" local variable.(ù¬¶8û¦‡ÑĞ1
+D
+java:S1481Ÿ"&Remove this unused "k" local variable.(¢³¯¯8û¦‡ÑĞ1
+D
+java:S1481Í"&Remove this unused "z" local variable.(ù¬¶8ş¦‡ÑĞ1
+D
+java:S1481Ò"&Remove this unused "k" local variable.(¢³¯¯8ş¦‡ÑĞ1
+G
+java:S1659’"$Declare "limit2" on a separate line.(²ü±Ğúÿÿÿÿ8§‡ÑĞ1
+G
+java:S2140")Use "java.util.Random.nextInt()" instead.(ğ›í»8„§‡ÑĞ1
+u
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¹Ö³Èûÿÿÿÿ8ˆ§‡ÑĞ1
+H
+java:S1874Ö	"+Remove this use of "put"; it is deprecated.(ŒéË[8¡§‡ÑĞ1
+H
+java:S1874ù	"+Remove this use of "put"; it is deprecated.(ŒéË[8¥§‡ÑĞ1
+D
+java:S1481š
+"&Remove this unused "z" local variable.(ù¬¶8§§‡ÑĞ1
+D
+java:S1481Ÿ
+"&Remove this unused "k" local variable.(¢³¯¯8§§‡ÑĞ1
+p
+java:S3776¸
+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(û†É8¨§‡ÑĞ1
+J
+java:S1659½
+"'Declare "maxiIndex" on a separate line.(³İ”˜ùÿÿÿÿ8©§‡ÑĞ1
+I
+java:S1874¡"+Remove this use of "put"; it is deprecated.(ìè‹Ì8´§‡ÑĞ1
+u
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(ôÈ‘øÿÿÿÿ8µ§‡ÑĞ1
+N
+java:S1874Í"+Remove this use of "put"; it is deprecated.(°Æ¥ğúÿÿÿÿ8Î§‡ÑĞ1
+u
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Ğåêüûÿÿÿÿ8Ñ§‡ÑĞ1
+I
+java:S1874ò"+Remove this use of "put"; it is deprecated.(ÔæìŒ8İ§‡ÑĞ1
+I
+java:S1874û"+Remove this use of "put"; it is deprecated.(ÔæìŒ8Ş§‡ÑĞ1
+I
+java:S1874†"+Remove this use of "put"; it is deprecated.(ÔæìŒ8ß§‡ÑĞ1
+é
+java:S6541¯"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 67 to 64, Complexity from 17 to 14, Nesting Level from 3 to 2, Number of Variables from 20 to 6.(¹Ö³Èûÿÿÿÿ8á§‡ÑĞ1
+ê
+java:S6541Ç"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 126 to 64, Complexity from 21 to 14, Nesting Level from 3 to 2, Number of Variables from 20 to 6.(ôÈ‘øÿÿÿÿ8á§‡ÑĞ1
+ê
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 126 to 64, Complexity from 22 to 14, Nesting Level from 4 to 2, Number of Variables from 12 to 6.(Ğåêüûÿÿÿÿ8á§‡ÑĞ1

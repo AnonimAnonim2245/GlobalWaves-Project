@@ -1,0 +1,126 @@
+
+|
+java:S1192æ"^Define a constant instead of duplicating this literal " has been added successfully." 3 times.(èŠ¯8›¦æ–Ñ1
+j
+java:S1192¸"GDefine a constant instead of duplicating this literal "result" 6 times.(Ä­‚şÿÿÿÿ8œ¦æ–Ñ1
+h
+java:S1192Ë"JDefine a constant instead of duplicating this literal "timestamp" 6 times.(ÿş¦­8œ¦æ–Ñ1
+m
+java:S1192Ğ"ODefine a constant instead of duplicating this literal "The username " 10 times.(É—óğ8œ¦æ–Ñ1
+v
+java:S1192Ñ"SDefine a constant instead of duplicating this literal " is already taken." 6 times.(´ÉíÈıÿÿÿÿ8œ¦æ–Ñ1
+v
+java:S1192Ñ"SDefine a constant instead of duplicating this literal " can't be deleted." 5 times.(ªƒ—øÿÿÿÿ8œ¦æ–Ñ1
+g
+java:S1192Ğ"IDefine a constant instead of duplicating this literal "message" 22 times.(É—óğ8œ¦æ–Ñ1
+f
+java:S1192É"HDefine a constant instead of duplicating this literal "command" 7 times.(ïßÙª8œ¦æ–Ñ1
+{	java:S135Ã"YReduce the total number of break and continue statements in this loop to use at most one.(–ğÜìûÿÿÿÿ8œ¦æ–Ñ1
+M
+java:S1066»"/Merge this if statement with the enclosing one.(¶¹¶¡8¦æ–Ñ1
+‡
+java:S1319§"iThe type of "songsCopy" should be an interface such as "List" rather than the implementation "ArrayList".(¾²‹Î8¦æ–Ñ1
+ƒ
+java:S1319©"eThe type of "songs" should be an interface such as "List" rather than the implementation "ArrayList".(®àâŸ8¦æ–Ñ1
+†
+java:S1319²"hThe type of "podcasts" should be an interface such as "List" rather than the implementation "ArrayList".(™ä€ª8¦æ–Ñ1
+ƒ
+java:S1319»"eThe type of "users" should be an interface such as "List" rather than the implementation "ArrayList".(º´æè8¦æ–Ñ1
+f
+java:S3824¶"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ìƒ•Å8²¦æ–Ñ1
+k
+java:S3824Ù"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".( †¹«ùÿÿÿÿ8Ôş—šÑ1
+f
+java:S3824ç"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(”ì’†8²¦æ–Ñ1
+Ÿ
+java:S1186¡"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Å ÀÕ8³¦æ–Ñ1
+I
+java:S1481Ô"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8Ä¦æ–Ñ1
+p
+java:S3776Ä"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Êå·œ8È¦æ–Ñ1
+k
+java:S1871Õ"MThis branch's code block is the same as the block for the branch on line 591.(ü¡×Ï8Ù¦æ–Ñ1
+p
+java:S1871ğ"MThis branch's code block is the same as the block for the branch on line 619.(š×Ãëúÿÿÿÿ8İ¦æ–Ñ1
+p
+java:S1871ƒ"MThis branch's code block is the same as the block for the branch on line 637.(š×Ãëúÿÿÿÿ8İ¦æ–Ñ1
+I
+java:S1874³"+Remove this use of "put"; it is deprecated.(ƒÉ 8á¦æ–Ñ1
+I
+java:S1874´"+Remove this use of "put"; it is deprecated.(˜Ÿì8á¦æ–Ñ1
+N
+java:S1874µ"+Remove this use of "put"; it is deprecated.(®Ò¶éùÿÿÿÿ8á¦æ–Ñ1
+I
+java:S1874¶"+Remove this use of "put"; it is deprecated.(ÕÑëˆ8á¦æ–Ñ1
+N
+java:S1874·"+Remove this use of "put"; it is deprecated.(Í¨Éûÿÿÿÿ8á¦æ–Ñ1
+N
+java:S1874¸"+Remove this use of "put"; it is deprecated.(Ä­‚şÿÿÿÿ8á¦æ–Ñ1
+N
+java:S1874È"+Remove this use of "put"; it is deprecated.(¥ÍôĞúÿÿÿÿ8â¦æ–Ñ1
+N
+java:S1874É"+Remove this use of "put"; it is deprecated.(‰¤›Ğùÿÿÿÿ8â¦æ–Ñ1
+H
+java:S1874Ê"+Remove this use of "put"; it is deprecated.(Ó¾©R8â¦æ–Ñ1
+N
+java:S1874Ì"+Remove this use of "put"; it is deprecated.(Ä­‚şÿÿÿÿ8ã¦æ–Ñ1
+I
+java:S1874Û"+Remove this use of "put"; it is deprecated.(ÅßÎÖ8ä¦æ–Ñ1
+N
+java:S1874İ"+Remove this use of "put"; it is deprecated.(Ä­‚şÿÿÿÿ8ä¦æ–Ñ1
+b
+java:S1854î"?Remove this useless assignment to local variable "jsonElement".(Ü˜æ²şÿÿÿÿ8ä¦æ–Ñ1
+N
+java:S1874ğ"+Remove this use of "put"; it is deprecated.(¬åóûÿÿÿÿÿ8ó¦æ–Ñ1
+u
+java:S3776÷"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Œ¹éàûÿÿÿÿ8å¦æ–Ñ1
+Y
+java:S1854ü";Remove this useless assignment to local variable "artist1".(’Ç³‡8å¦æ–Ñ1
+a
+java:S1854ú">Remove this useless assignment to local variable "jsonObject".(‹ú±èüÿÿÿÿ8å¦æ–Ñ1
+^
+java:S1854†";Remove this useless assignment to local variable "artist1".(Şÿœ²úÿÿÿÿ8å¦æ–Ñ1
+R
+java:S1481ú"/Remove this unused "jsonObject" local variable.(‹ú±èüÿÿÿÿ8æ¦æ–Ñ1
+J
+java:S1481ü",Remove this unused "artist1" local variable.(’Ç³‡8æ¦æ–Ñ1
+D
+java:S1481 "&Remove this unused "z" local variable.(ù¬¶8è¦æ–Ñ1
+D
+java:S1481¥"&Remove this unused "k" local variable.(¢³¯¯8è¦æ–Ñ1
+K
+java:S1481©"-Remove this unused "contains" local variable.(’‚êŒ8è¦æ–Ñ1
+u
+java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(èæşùÿÿÿÿ8é¦æ–Ñ1
+^
+java:S1854‡"@Remove this useless assignment to local variable "totalRounded".(ïŠÛÿ8ê¦æ–Ñ1
+^
+java:S1854§";Remove this useless assignment to local variable "maxSong".(„Ü–Áıÿÿÿÿ8ê¦æ–Ñ1
+I
+java:S1481Æ"+Remove this unused "total2" local variable.(·üğ8ê¦æ–Ñ1
+L
+java:S1481É")Remove this unused "maxi" local variable.(ø­ìúÿÿÿÿ8í¦æ–Ñ1
+O
+java:S1481‡"1Remove this unused "totalRounded" local variable.(ïŠÛÿ8ğ¦æ–Ñ1
+M
+java:S1481—"*Remove this unused "total" local variable.(ÓŸı³ûÿÿÿÿ8ñ¦æ–Ñ1
+O
+java:S1481§",Remove this unused "maxSong" local variable.(„Ü–Áıÿÿÿÿ8ò¦æ–Ñ1
+I
+java:S1874ª"+Remove this use of "put"; it is deprecated.(Œ§Ì®8¹â™—Ñ1
+p
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 89 to the 15 allowed.(· …Æ8ó¦æ–Ñ1
+b
+java:S1854¶"?Remove this useless assignment to local variable "jsonObject2".(ë¹ˆ€úÿÿÿÿ8ú¦æ–Ñ1
+M
+java:S1481“	"*Remove this unused "first" local variable.(èó»Ïøÿÿÿÿ8ƒ§æ–Ñ1
+I
+java:S1874Ÿ	"+Remove this use of "put"; it is deprecated.(Îàš—8Ñâ™—Ñ1
+M
+java:S1481°	"*Remove this unused "first" local variable.(èó»Ïøÿÿÿÿ8…§æ–Ñ1
+I
+java:S1874¸	"+Remove this use of "put"; it is deprecated.(Îàš—8Óâ™—Ñ1
+é
+java:S6541Á"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 96 to 64, Complexity from 21 to 14, Nesting Level from 4 to 2, Number of Variables from 37 to 6.(èæşùÿÿÿÿ8†§æ–Ñ1
+ä
+java:S6541³"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 96 to 64, Complexity from 30 to 14, Nesting Level from 7 to 2, Number of Variables from 19 to 6.(· …Æ8†§æ–Ñ1

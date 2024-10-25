@@ -1,0 +1,22 @@
+Starting audit...
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\command\CommandFactory.java:15:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\database\Database.java:6:13: Using the '.*' form of import should be avoided - types.*. [AvoidStarImport]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\database\Database.java:8:17: Using the '.*' form of import should be avoided - java.util.*. [AvoidStarImport]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\database\Database.java:652:60: Must have at least one statement. [EmptyBlock]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\json\JsonConvertToCategories.java:21:20: Name 'NextPage' must match pattern '^[a-z][a-zA-Z0-9]*$'. [MemberName]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\status\playerActions.java:8:13: Using the '.*' form of import should be avoided - types.*. [AvoidStarImport]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\status\playerActions.java:12:14: Name 'playerActions' must match pattern '^[A-Z][a-zA-Z0-9]*$'. [TypeName]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\status\playerActions.java:91:28: Parameter jsonObject should be final. [FinalParameters]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\status\playerActions.java:369:5: Method length is 191 lines (max allowed is 150). [MethodLength]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\status\playerActions.java:572:5: Method length is 167 lines (max allowed is 150). [MethodLength]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\status\playerLoad.java:10:13: Using the '.*' form of import should be avoided - types.*. [AvoidStarImport]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\status\playerLoad.java:34:14: Name 'playerLoad' must match pattern '^[A-Z][a-zA-Z0-9]*$'. [TypeName]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\status\playerLoad.java:89:5: Method length is 175 lines (max allowed is 150). [MethodLength]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\status\playerLoad.java:94:48: Expression can be simplified. [SimplifyBooleanExpression]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\status\playerStatus.java:9:13: Using the '.*' form of import should be avoided - types.*. [AvoidStarImport]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\status\playerStatus.java:28:20: Name 'playerStatus' must match pattern '^[A-Z][a-zA-Z0-9]*$'. [TypeName]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\status\playerStatus.java:29:19: 'static' modifier out of order with the JLS suggestions. [ModifierOrder]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\status\playerStatus.java:493:5: Method length is 189 lines (max allowed is 150). [MethodLength]
+[ERROR] C:\Users\Asus\Desktop\oop-project-2023\etapa3\.\src\status\playerStatus.java:691:5: Method length is 182 lines (max allowed is 150). [MethodLength]
+Audit done.
+Checkstyle ends with 19 errors.

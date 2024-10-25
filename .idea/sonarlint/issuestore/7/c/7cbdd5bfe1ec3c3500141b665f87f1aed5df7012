@@ -1,0 +1,51 @@
+
+k
+java:S1192i"IDefine a constant instead of duplicating this literal "message" 12 times.(º£Äøÿÿÿÿ8î²èÉĞ1
+e
+java:S1192b"HDefine a constant instead of duplicating this literal "command" 4 times.(ïßÙª8øéÂ–Ñ1
+}
+java:S1192Ş"ZDefine a constant instead of duplicating this literal " can't delete this album." 3 times.(¹°‡ıÿÿÿÿ8øéÂ–Ñ1
+g
+java:S1192d"JDefine a constant instead of duplicating this literal "timestamp" 4 times.(ÿş¦­8øéÂ–Ñ1
+„
+java:S1319¯"fThe type of "songs2" should be an interface such as "List" rather than the implementation "ArrayList".(— ¨Ï8ùéÂ–Ñ1
+F
+java:S5411ì"(Use a primitive boolean expression here.(ãí®©8úéÂ–Ñ1
+\
+java:S1161L":Add the "@Override" annotation above this method signature(ŒŒ·ßøÿÿÿÿ8ÁìÂ–Ñ1
+o
+java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(¤…š–8ÂìÂ–Ñ1
+[
+java:S1854š"=Remove this useless assignment to local variable "songNames".(ÛíÒÑ8ÂìÂ–Ñ1
+L
+java:S1481š".Remove this unused "songNames" local variable.(ÛíÒÑ8ÖìÂ–Ñ1
+I
+java:S1481¤"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8×ìÂ–Ñ1
+p
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 69 to the 15 allowed.(°ô©8ØìÂ–Ñ1
+X
+java:S2209Ú"5Change this instance-reference to a static reference.(ğ²«­ùÿÿÿÿ8ÚìÂ–Ñ1
+X
+java:S2209ù"5Change this instance-reference to a static reference.(ğ²«­ùÿÿÿÿ8ÜìÂ–Ñ1
+X
+java:S2209‡"5Change this instance-reference to a static reference.(ğ²«­ùÿÿÿÿ8ŞìÂ–Ñ1
+t
+java:S2159Š"VRemove this call to "equals"; comparisons between unrelated types always return false.(…†ÒÌ8ŞìÂ–Ñ1
+I
+java:S1481–"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8àìÂ–Ñ1
+I
+java:S1874É"+Remove this use of "put"; it is deprecated.(Ğè¶Î8âìÂ–Ñ1
+X
+java:S1161ú":Add the "@Override" annotation above this method signature(Ôò©‘8åìÂ–Ñ1
+X
+java:S1161ƒ":Add the "@Override" annotation above this method signature(ô²¶®8åìÂ–Ñ1
+X
+java:S1161":Add the "@Override" annotation above this method signature(–ç·Ÿ8æìÂ–Ñ1
+]
+java:S1161œ":Add the "@Override" annotation above this method signature(Ó‹á¢ÿÿÿÿÿ8æìÂ–Ñ1
+X
+java:S1161¹":Add the "@Override" annotation above this method signature(×ÙÅÿ8éìÂ–Ñ1
+]
+java:S1161Æ":Add the "@Override" annotation above this method signature(ºº—üÿÿÿÿÿ8éìÂ–Ñ1
+ä
+java:S6541¿"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 89 to 64, Complexity from 20 to 14, Nesting Level from 5 to 2, Number of Variables from 21 to 6.(°ô©8êìÂ–Ñ1

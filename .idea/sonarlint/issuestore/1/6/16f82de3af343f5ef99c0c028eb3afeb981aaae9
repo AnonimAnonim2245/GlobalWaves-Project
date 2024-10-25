@@ -1,0 +1,8 @@
+
+u	java:S135#"YReduce the total number of break and continue statements in this loop to use at most one.(…Æñ8‡Ã³«Å1
+z	java:S135B"YReduce the total number of break and continue statements in this loop to use at most one.(è“¥ôıÿÿÿÿ8Œİ½«Å1
+Q
+java:S1066&"/Merge this if statement with the enclosing one.(šõ‡Ñüÿÿÿÿ8‡Ã³«Å1
+Q
+java:S1066E"/Merge this if statement with the enclosing one.(´©‡şÿÿÿÿ8Œİ½«Å1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅşÚü8ˆÃ³«Å1

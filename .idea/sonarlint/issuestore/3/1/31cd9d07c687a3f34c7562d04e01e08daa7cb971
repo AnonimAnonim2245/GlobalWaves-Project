@@ -1,0 +1,106 @@
+
+o
+java:S1192"QDefine a constant instead of duplicating this literal "Liked songs:
+\t[" 3 times.(úóâŸ8©ğÃùÏ1
+d
+java:S1192H"GDefine a constant instead of duplicating this literal "ARTIST" 4 times.(×Î¾¶8É½´ùÏ1
+y
+java:S1192"[Define a constant instead of duplicating this literal "]
+
+Followed playlists:
+\t[" 3 times.(æÛÅĞ8©ğÃùÏ1
+k
+java:S11929"IDefine a constant instead of duplicating this literal "message" 10 times.(º£Äøÿÿÿÿ8É½´ùÏ1
+g
+java:S1192n"EDefine a constant instead of duplicating this literal ":
+\t" 5 times.(·èæıÿÿÿÿ8É½´ùÏ1
+i
+java:S1192?"LDefine a constant instead of duplicating this literal "LIKECONTENT" 4 times.(Ò’“¯8É½´ùÏ1
+>
+java:S1643"Use a StringBuilder instead.(óíÆöøÿÿÿÿ8İğ³ÌĞ1
+>
+java:S1643""Use a StringBuilder instead.(’İçùÿÿÿÿ8İğ³ÌĞ1
+>
+java:S1643d"Use a StringBuilder instead.(½ì‡Ñùÿÿÿÿ8Ê½´ùÏ1
+>
+java:S1643g"Use a StringBuilder instead.(º¥úÿÿÿÿÿÿ8Ê½´ùÏ1
+>
+java:S1643n"Use a StringBuilder instead.(·èæıÿÿÿÿ8Ê½´ùÏ1
+>
+java:S1643r"Use a StringBuilder instead.(¶¥½ùÿÿÿÿ8Ê½´ùÏ1
+?
+java:S1643†"Use a StringBuilder instead.(¨´İıÿÿÿÿ8Ê½´ùÏ1
+:
+java:S1643‰"Use a StringBuilder instead.(êèØ8Ê½´ùÏ1
+:
+java:S1643•"Use a StringBuilder instead.(Ô“¢—8Ê½´ùÏ1
+?
+java:S1643˜"Use a StringBuilder instead.(Ù‚¥ôıÿÿÿÿ8Ê½´ùÏ1
+?
+java:S1643¢"Use a StringBuilder instead.(¨´İıÿÿÿÿ8Ê½´ùÏ1
+:
+java:S1643¥"Use a StringBuilder instead.(êèØ8Ê½´ùÏ1
+:
+java:S1643¬"Use a StringBuilder instead.(Ô“¢—8Ê½´ùÏ1
+?
+java:S1643¯"Use a StringBuilder instead.(Ù‚¥ôıÿÿÿÿ8Ê½´ùÏ1
+?
+java:S1643½"Use a StringBuilder instead.(ª÷—óşÿÿÿÿ8Şğ³ÌĞ1
+:
+java:S1643À"Use a StringBuilder instead.(Ëõ¤Ø8Şğ³ÌĞ1
+:
+java:S1643Ç"Use a StringBuilder instead.(ª´ïœ8Ê½´ùÏ1
+?
+java:S1643Ì"Use a StringBuilder instead.(ë†•áıÿÿÿÿ8Ê½´ùÏ1
+?
+java:S1643Ö"Use a StringBuilder instead.(•Áµ¥ùÿÿÿÿ8Ê½´ùÏ1
+:
+java:S1643Ú"Use a StringBuilder instead.(Ï®˜¬8Ê½´ùÏ1
+:
+java:S1643ê"Use a StringBuilder instead.(ìñ‡8ªğÃùÏ1
+?
+java:S1643î"Use a StringBuilder instead.(‰êÏ¤ıÿÿÿÿ8ªğÃùÏ1
+:
+java:S1643÷"Use a StringBuilder instead.(¬óç¢8ªğÃùÏ1
+:
+java:S1643ú"Use a StringBuilder instead.(û¬‚»8«ğÃùÏ1
+?
+java:S1643Š"Use a StringBuilder instead.(¨´İıÿÿÿÿ8ÒøÇùÏ1
+:
+java:S1643"Use a StringBuilder instead.(êèØ8ÒøÇùÏ1
+:
+java:S1643•"Use a StringBuilder instead.(Ô“¢—8å¸ÈùÏ1
+?
+java:S1643˜"Use a StringBuilder instead.(Ù‚¥ôıÿÿÿÿ8å¸ÈùÏ1
+?
+java:S1643¢"Use a StringBuilder instead.(¨´İıÿÿÿÿ8€ÑîƒĞ1
+:
+java:S1643¥"Use a StringBuilder instead.(êèØ8€ÑîƒĞ1
+:
+java:S1643¬"Use a StringBuilder instead.(Ô“¢—8€ÑîƒĞ1
+?
+java:S1643¯"Use a StringBuilder instead.(Ù‚¥ôıÿÿÿÿ8€ÑîƒĞ1
+K
+java:S5411…"(Use a primitive boolean expression here.(µã»âùÿÿÿÿ8Ë½´ùÏ1
+K
+java:S5411”"(Use a primitive boolean expression here.(µã»âùÿÿÿÿ8Ë½´ùÏ1
+K
+java:S5411¡"(Use a primitive boolean expression here.(µã»âùÿÿÿÿ8ÑîƒĞ1
+K
+java:S5411«"(Use a primitive boolean expression here.(µã»âùÿÿÿÿ8ÑîƒĞ1
+t
+java:S3776y"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ò¿ë‘øÿÿÿÿ8íÒîƒĞ1
+[
+java:S1854Ÿ"=Remove this useless assignment to local variable "songIndex".(ñÁ„Ù8¢™ûÏ1
+L
+java:S1481Ÿ".Remove this unused "songIndex" local variable.(ñÁ„Ù8‘¢™ûÏ1
+p
+java:S3776‚"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ğªğÀ8µ¹ÈùÏ1
+[
+java:S1854‡"=Remove this useless assignment to local variable "songIndex".(ñÁ„Ù8ášµüÏ1
+[
+java:S1854Ÿ"=Remove this useless assignment to local variable "songIndex".(ñÁ„Ù8õÒîƒĞ1
+L
+java:S1481‡".Remove this unused "songIndex" local variable.(ñÁ„Ù8ãšµüÏ1
+L
+java:S1481Ÿ".Remove this unused "songIndex" local variable.(ñÁ„Ù8ùÒîƒĞ1

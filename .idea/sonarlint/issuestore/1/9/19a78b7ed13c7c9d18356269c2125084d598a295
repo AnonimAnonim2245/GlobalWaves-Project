@@ -1,0 +1,13 @@
+
+L
+java:S1066o"/Merge this if statement with the enclosing one.(Ûª¬š8ñÒòÏ1
+o
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ğ¯¡¶8˜ñÒòÏ1
+C
+java:S1481H"&Remove this unused "z" local variable.(ù¬¶8ªñÒòÏ1
+C
+java:S1481M"&Remove this unused "k" local variable.(¢³¯¯8«ñÒòÏ1
+`
+java:S1854h">Remove this useless assignment to local variable "jsonObject".(‹ú±èüÿÿÿÿ8¬ñÒòÏ1
+Q
+java:S1481h"/Remove this unused "jsonObject" local variable.(‹ú±èüÿÿÿÿ8¬ñÒòÏ1

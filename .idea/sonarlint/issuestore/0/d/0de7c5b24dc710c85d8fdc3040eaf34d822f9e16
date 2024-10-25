@@ -1,0 +1,19 @@
+
+k
+java:S1192Á"HDefine a constant instead of duplicating this literal "message" 7 times.(º£Äøÿÿÿÿ8È‘ŞûÏ1
+f
+java:S1192¼"HDefine a constant instead of duplicating this literal "command" 4 times.(ïßÙª8È‘ŞûÏ1
+e
+java:S1192Æ"GDefine a constant instead of duplicating this literal "public" 3 times.(Îñš8È‘ŞûÏ1
+h
+java:S1192¾"JDefine a constant instead of duplicating this literal "timestamp" 4 times.(ÿş¦­8È‘ŞûÏ1
+M
+java:S1066ñ"/Merge this if statement with the enclosing one.(–œ°Ã8É‘ŞûÏ1
+F
+java:S5411è"(Use a primitive boolean expression here.(ª­ş¯8Ê‘ŞûÏ1
+p
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¿•Ë£8ú‘ŞûÏ1
+H
+java:S1874…"+Remove this use of "put"; it is deprecated.(÷Ó‘Q8…’ŞûÏ1
+I
+java:S1874†"+Remove this use of "put"; it is deprecated.(”÷Äˆ8…’ŞûÏ1

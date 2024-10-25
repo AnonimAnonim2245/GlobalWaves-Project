@@ -1,0 +1,70 @@
+
+|
+java:S1488;"ZImmediately return this expression instead of assigning it to the temporary variable "js".(ÓŒş¬üÿÿÿÿ8ôÿ®ÇÆ1
+|
+java:S1488A"ZImmediately return this expression instead of assigning it to the temporary variable "js".(öº‚‹ÿÿÿÿÿ8ôÿ®ÇÆ1
+w
+java:S1488o"ZImmediately return this expression instead of assigning it to the temporary variable "js".(ŞíÎœ8ôÿ®ÇÆ1
+x
+java:S1488ˆ"ZImmediately return this expression instead of assigning it to the temporary variable "js".(•Š¶°8ôÿ®ÇÆ1
+}
+java:S1488£"ZImmediately return this expression instead of assigning it to the temporary variable "js".( ¾³âıÿÿÿÿ8ôÿ®ÇÆ1
+}
+java:S1488¶"ZImmediately return this expression instead of assigning it to the temporary variable "js".(áá€øÿÿÿÿ8ôÿ®ÇÆ1
+}
+java:S1488Ä"ZImmediately return this expression instead of assigning it to the temporary variable "js".(¾”µÎşÿÿÿÿ8ôÿ®ÇÆ1
+}
+java:S1488×"ZImmediately return this expression instead of assigning it to the temporary variable "js".(úıª³ÿÿÿÿÿ8ôÿ®ÇÆ1
+}
+java:S1488İ"ZImmediately return this expression instead of assigning it to the temporary variable "js".(ïª›¦şÿÿÿÿ8ôÿ®ÇÆ1
+x
+java:S1488ã"ZImmediately return this expression instead of assigning it to the temporary variable "js".(ÏØ¢ü8ôÿ®ÇÆ1
+}
+java:S1488š"ZImmediately return this expression instead of assigning it to the temporary variable "js".(¨à’»şÿÿÿÿ8ôÿ®ÇÆ1
+x
+java:S1488â"ZImmediately return this expression instead of assigning it to the temporary variable "js".(åİ·›8ôÿ®ÇÆ1
+n	java:S101%"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†ìæ˜ûÿÿÿÿ8õÿ®ÇÆ1
+E
+java:S5411("(Use a primitive boolean expression here.(ãí®©8œÿàÇÆ1
+E
+java:S5411G"(Use a primitive boolean expression here.(¤×É¦8öÿ®ÇÆ1
+E
+java:S5411j"(Use a primitive boolean expression here.(ãí®©8œÿàÇÆ1
+F
+java:S5411‚"(Use a primitive boolean expression here.(ãí®©8ÿàÇÆ1
+F
+java:S5411"(Use a primitive boolean expression here.(ãí®©8ÿàÇÆ1
+K
+java:S5411•"(Use a primitive boolean expression here.(œ¼”¸ùÿÿÿÿ8ÿàÇÆ1
+F
+java:S5411œ"(Use a primitive boolean expression here.(ãí®©8ÿàÇÆ1
+F
+java:S5411¯"(Use a primitive boolean expression here.(ãí®©8ÿàÇÆ1
+F
+java:S5411¾"(Use a primitive boolean expression here.(ãí®©8ÿàÇÆ1
+F
+java:S5411Ñ"(Use a primitive boolean expression here.(ãí®©8ÿàÇÆ1
+K
+java:S5411"(Use a primitive boolean expression here.(™Ó«óúÿÿÿÿ8ÿàÇÆ1
+K
+java:S5411•"(Use a primitive boolean expression here.(ŞĞâşÿÿÿÿ8ÿàÇÆ1
+F
+java:S5411Ô"(Use a primitive boolean expression here.(ñ¬†¸8ÿàÇÆ1
+F
+java:S5411"(Use a primitive boolean expression here.(ñ¬†¸8ÿàÇÆ1
+o
+java:S1226+"MIntroduce a new variable instead of reusing the parameter "changedTimestamp".(ÕÃÂÉıÿÿÿÿ8úÿ®ÇÆ1
+\
+java:S1118%":Add a private constructor to hide the implicit public one.(†ìæ˜ûÿÿÿÿ8²€¯ÇÆ1
+f
+java:S1854+"DRemove this useless assignment to local variable "changedTimestamp".(ÕÃÂÉıÿÿÿÿ8´€¯ÇÆ1
+Y
+java:S1854„"6Remove this useless assignment to local variable "js".(öº‚‹ÿÿÿÿÿ8¾€¯ÇÆ1
+J
+java:S1481„"'Remove this unused "js" local variable.(öº‚‹ÿÿÿÿÿ8¿€¯ÇÆ1
+I
+java:S1172Ï"+Remove this unused method parameter "user".(•õ¯Ò8Ò€¯ÇÆ1
+Š
+java:S1130‰"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ˆ…ªÛ8‡“ÔÆ1
+
+java:S1130¥"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Î¾¹Æşÿÿÿÿ8Ã¥ÈÚÆ1

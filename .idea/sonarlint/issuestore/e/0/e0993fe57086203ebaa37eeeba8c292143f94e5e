@@ -1,0 +1,13 @@
+
+k
+java:S1192À"HDefine a constant instead of duplicating this literal "message" 5 times.(ù”´Âùÿÿÿÿ8Ú¦é„Ð1
+M
+java:S1066Ä"/Merge this if statement with the enclosing one.(¼Í¢î8Ú¦é„Ð1
+†
+java:S1319W"dThe type of "tags" should be an interface such as "List" rather than the implementation "ArrayList".(Äï“©ÿÿÿÿÿ8Ú¦é„Ð1
+K
+java:S5411¿"(Use a primitive boolean expression here.(þš§¸ûÿÿÿÿ8‘¥Ø–Ð1
+p
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(…º½™8þ¦é„Ð1
+y
+java:S3923Ë"[Remove this conditional structure or edit its code blocks so that they're not all the same.(¯óó–8€§é„Ð1

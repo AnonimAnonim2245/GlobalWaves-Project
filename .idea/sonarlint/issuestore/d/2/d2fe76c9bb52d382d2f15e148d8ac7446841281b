@@ -1,0 +1,17 @@
+
+n	java:S135!"YReduce the total number of break and continue statements in this loop to use at most one.(ÙÛÄ
+E
+java:S1066&"/Merge this if statement with the enclosing one.(ğ¾ÍÍ
+E
+java:S1066."/Merge this if statement with the enclosing one.(œÓÉ­
+E
+java:S10665"/Merge this if statement with the enclosing one.(ÖÉ‚ç
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅşÚü
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¦é³Ä
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¹£ş
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+?
+java:S1068")Remove this unused "owner" private field.(¿˜‰á

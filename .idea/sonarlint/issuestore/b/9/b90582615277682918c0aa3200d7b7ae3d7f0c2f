@@ -1,0 +1,24 @@
+
+W
+java:S3516„"9Refactor this method to not always return the same value.(©ë¶‹8…½€úÏ1
+m
+java:S1149#"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ˆŸ¹8‡½€úÏ1
+r
+java:S1149&"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ß¾Ì‹üÿÿÿÿ8ÇÆ«úÏ1
+u
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‰å–Öüÿÿÿÿ8½€úÏ1
+J
+java:S1659ı"'Declare "maxiIndex" on a separate line.(³İ”˜ùÿÿÿÿ8½€úÏ1
+p
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¡¡â8’½€úÏ1
+J
+java:S1659¬"'Declare "maxiIndex" on a separate line.(³İ”˜ùÿÿÿÿ8’½€úÏ1
+p
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ëí8—½€úÏ1
+J
+java:S1659á"'Declare "maxiIndex" on a separate line.(³İ”˜ùÿÿÿÿ8˜½€úÏ1
+p
+java:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¤Ñô8š½€úÏ1
+J
+java:S1659"'Declare "maxiIndex" on a separate line.(³İ”˜ùÿÿÿÿ8›½€úÏ1
+F	java:S108Œ")Either remove or fill this block of code.(ñãª„8¤½€úÏ1

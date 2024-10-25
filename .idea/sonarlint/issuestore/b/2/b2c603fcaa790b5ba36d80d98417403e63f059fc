@@ -1,0 +1,15 @@
+
+u	java:S135."YReduce the total number of break and continue statements in this loop to use at most one.(šÊ­ô8¯õÒşÍ1
+Q
+java:S10661"/Merge this if statement with the enclosing one.(®åõàüÿÿÿÿ8¯õÒşÍ1
+Q
+java:S10668"/Merge this if statement with the enclosing one.(®åõàüÿÿÿÿ8¯õÒşÍ1
+Q
+java:S1066@"/Merge this if statement with the enclosing one.(®åõàüÿÿÿÿ8¯õÒşÍ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅşÚü8®èĞşÍ1
+t
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(‹©ÄÒüÿÿÿÿ8´õÒşÍ1
+W
+java:S1854+";Remove this useless assignment to local variable "library".(ËæÃ8µ¶ÙşÍ1
+H
+java:S1481+",Remove this unused "library" local variable.(ËæÃ8Ê¶ÙşÍ1

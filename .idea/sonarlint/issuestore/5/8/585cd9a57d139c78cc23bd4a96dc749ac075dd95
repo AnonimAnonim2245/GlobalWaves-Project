@@ -1,0 +1,23 @@
+
+k
+java:S1192:"IDefine a constant instead of duplicating this literal "message" 10 times.(º£Äøÿÿÿÿ8«ÏĞÆ1
+e
+java:S11923"HDefine a constant instead of duplicating this literal "command" 3 times.(ïßÙª8«ÏĞÆ1
+g
+java:S11925"JDefine a constant instead of duplicating this literal "timestamp" 3 times.(ÿş¦­8«ÏĞÆ1
+Š
+java:S1319!"hThe type of "episodes" should be an interface such as "List" rather than the implementation "ArrayList".(Ğ‚ôÕûÿÿÿÿ8«ÏĞÆ1
+†
+java:S1319ö"hThe type of "episodes" should be an interface such as "List" rather than the implementation "ArrayList".(ŞÃÔÄ8«ÏĞÆ1
+t
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(­ôÕèúÿÿÿÿ8¦«ÏĞÆ1
+H
+java:S1481f"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8±“‘ÛÎ1
+I
+java:S1874"+Remove this use of "put"; it is deprecated.(ËÓ¢8½«ÏĞÆ1
+I
+java:S1874"+Remove this use of "put"; it is deprecated.(Ğè¶Î8½«ÏĞÆ1
+p
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(³‡üŠ8¾«ÏĞÆ1
+I
+java:S1481Ù"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8–¿“ÛÎ1

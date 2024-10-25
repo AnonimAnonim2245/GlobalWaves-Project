@@ -1,0 +1,23 @@
+
+z	java:S1351"YReduce the total number of break and continue statements in this loop to use at most one.(ó›ÓÂúÿÿÿÿ8š›ÿÍ1
+Q
+java:S10663"/Merge this if statement with the enclosing one.(°„‰Äúÿÿÿÿ8››ÿÍ1
+Q
+java:S1066i"/Merge this if statement with the enclosing one.(Î²Ûşÿÿÿÿ8››ÿÍ1
+Q
+java:S1066r"/Merge this if statement with the enclosing one.(‹¼Ï®ùÿÿÿÿ8››ÿÍ1
+Q
+java:S1066y"/Merge this if statement with the enclosing one.(Ö­…äüÿÿÿÿ8››ÿÍ1
+M
+java:S1066„"/Merge this if statement with the enclosing one.(œöìô8››ÿÍ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅşÚü8œ›ÿÍ1
+n
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(ô®ó~8¤›ÿÍ1
+f
+java:S1854:"DRemove this useless assignment to local variable "subCriteriaIndex".(Ï™‘ßùÿÿÿÿ8ÔıÙ€Î1
+E
+java:S1659=")Declare "subsongName" on a separate line.(¸ä¾8§›ÿÍ1
+W
+java:S1481:"5Remove this unused "subCriteriaIndex" local variable.(Ï™‘ßùÿÿÿÿ8×ıÙ€Î1
+â
+java:S6541."ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 90 to 64, Complexity from 26 to 14, Nesting Level from 4 to 2, Number of Variables from 13 to 6.(ô®ó~8°›ÿÍ1

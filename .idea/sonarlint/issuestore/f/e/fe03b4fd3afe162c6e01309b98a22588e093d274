@@ -1,0 +1,9 @@
+
+\	java:S899:";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8‘ÜÄšÑ1
+p
+java:S4042:"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8‘ÜÄšÑ1
+W	java:S899<";Do something with the "boolean" value returned by "delete".(ç›¡8‘ÜÄšÑ1
+k
+java:S4042<"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ç›¡8‘ÜÄšÑ1
+H
+java:S1481?"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8’ÜÄšÑ1
